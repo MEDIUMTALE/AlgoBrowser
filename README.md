@@ -8,4 +8,4 @@
 По сути ничем не отличается от остальных, но заточен он исключительно под такой проект как Algoritmika!
 Проект рабочий со своими прикольными фишками.
 
-# EXE File - https://disk.yandex.ru/d/B3qKXLck88pUYw
+# DL EXE - https://disk.yandex.ru/d/B3qKXLck88pUYw
